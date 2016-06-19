@@ -11,6 +11,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         // adding a comment
-        int x = 5;
+        int x = 9;
+
+        int y=8;
     }
 }
